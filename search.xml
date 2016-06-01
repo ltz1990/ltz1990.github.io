@@ -4,6 +4,121 @@
   
     
     <entry>
+      <title><![CDATA[Http请求返回文件]]></title>
+      <url>http://www.luckyzz.com/http/http-file/</url>
+      <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">response.setContentType(“application/octet-stream”);</span><br><span class="line">response.setHeader(“content-disposition”,”attachment;filename=”+fileName);</span><br></pre></td></tr></table></figure>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Vim快捷键]]></title>
+      <url>http://www.luckyzz.com/vim/vim-key/</url>
+      <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>h</td>
+<td>左移</td>
+</tr>
+<tr>
+<td>l</td>
+<td>右移</td>
+</tr>
+<tr>
+<td>j</td>
+<td>下移一行</td>
+</tr>
+<tr>
+<td>k</td>
+<td>上移一行</td>
+</tr>
+<tr>
+<td>o</td>
+<td>新开一行插入</td>
+</tr>
+<tr>
+<td>$</td>
+<td>移动到行尾</td>
+</tr>
+<tr>
+<td>^</td>
+<td>移动到行首</td>
+</tr>
+<tr>
+<td>e/w</td>
+<td>下一个单词</td>
+</tr>
+<tr>
+<td>b</td>
+<td>上一个单词</td>
+</tr>
+<tr>
+<td>dd</td>
+<td>删除当前行</td>
+</tr>
+<tr>
+<td>gg</td>
+<td>页首</td>
+</tr>
+<tr>
+<td>G</td>
+<td>页尾</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[idea常用快捷键——MAC版]]></title>
+      <url>http://www.luckyzz.com/idea/idea-keymap/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>自己整理的idea常用快捷键mac版, 基于mac osx 10.5+ 有一部分私有定义</p>
+</blockquote>
+<ul>
+<li>打开preference <code>cmd+,</code> </li>
+<li>提取方法 <code>alt+cmd+m</code> </li>
+<li>提取变量 <code>alt+cmd+v</code> </li>
+<li>提取字段 <code>alt+cmd+f</code> </li>
+<li>代码提示 <code>cmd+/</code> </li>
+<li>实现方法 <code>ctrl+i</code> </li>
+<li>重写方法 <code>ctrl+o</code> </li>
+<li>查找类 <code>cmd+o</code> </li>
+<li>查找文件 <code>shift+cmd+o</code> </li>
+<li>修改变量 <code>shift+f6</code> </li>
+<li>查找方法变量引用 <code>alt+f7</code> </li>
+<li>格式化代码 <code>alt+cmd+l</code> </li>
+<li>类常用操作 <code>cmd+n</code> </li>
+<li>进入类实现 <code>f3</code> </li>
+<li>返回 <code>cmd+[</code> </li>
+<li>返回上次编辑的位置 <code>shift+cmd+del</code> </li>
+<li>回退到最新编辑的位置 <code>shift+cmd+|</code> </li>
+<li>前进 <code>cmd+]</code> </li>
+<li>自动引入 edi t-&gt;auto imp ort </li>
+<li>列出所有方法变量 <code>cmd+f12</code> 自定义为 <code>cmd+i</code> </li>
+<li>切换tab <code>shift+cmd+[/]</code> </li>
+<li>方法换位 <code>cmd+shift+up/down</code> </li>
+<li>行换位 <code>alt+shift+up/down</code> </li>
+<li>移动到页头/页尾  <code>fn+cmd+left/right</code> </li>
+<li>用XX包围起来 <code>cmd+shift+s</code> </li>
+<li>完成当前行，自动加分号 <code>cmd+shift+return</code> </li>
+<li>看到类的所有实现 <code>ctrl+h</code> </li>
+<li>列出所有todo <code>cmd+6</code> </li>
+<li>本页替换 <code>cmd+r</code> </li>
+<li>全局替换 <code>cmd+shift+r</code> </li>
+</ul>
+<blockquote>
+<p>善用live template 比如生成logger</p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[从Github迁移到coding，加速国内访问]]></title>
       <url>http://www.luckyzz.com/hexo/coding/</url>
       <content type="html"><![CDATA[<p>github的速度简直不能忍，于是..我增加了国内访问地址→_→ 用了 <a href="https://coding.net" target="_blank" rel="external">coding</a>!</p>
