@@ -13,61 +13,62 @@
     <entry>
       <title><![CDATA[Vim快捷键]]></title>
       <url>http://www.luckyzz.com/vim/vim-key/</url>
-      <content type="html"><![CDATA[<table>
+      <content type="html"><![CDATA[<p>平时整理的VIM的快捷键  </p>
+<table>
 <thead>
 <tr>
-<th>快捷键</th>
-<th>说明</th>
+<th style="text-align:left">快捷键</th>
+<th style="text-align:left">说明</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>h</td>
-<td>左移</td>
+<td style="text-align:left">h</td>
+<td style="text-align:left">左移</td>
 </tr>
 <tr>
-<td>l</td>
-<td>右移</td>
+<td style="text-align:left">l</td>
+<td style="text-align:left">右移</td>
 </tr>
 <tr>
-<td>j</td>
-<td>下移一行</td>
+<td style="text-align:left">j</td>
+<td style="text-align:left">下移一行</td>
 </tr>
 <tr>
-<td>k</td>
-<td>上移一行</td>
+<td style="text-align:left">k</td>
+<td style="text-align:left">上移一行</td>
 </tr>
 <tr>
-<td>o</td>
-<td>新开一行插入</td>
+<td style="text-align:left">o</td>
+<td style="text-align:left">新开一行插入</td>
 </tr>
 <tr>
-<td>$</td>
-<td>移动到行尾</td>
+<td style="text-align:left">$</td>
+<td style="text-align:left">移动到行尾</td>
 </tr>
 <tr>
-<td>^</td>
-<td>移动到行首</td>
+<td style="text-align:left">^</td>
+<td style="text-align:left">移动到行首</td>
 </tr>
 <tr>
-<td>e/w</td>
-<td>下一个单词</td>
+<td style="text-align:left">e/w</td>
+<td style="text-align:left">下一个单词</td>
 </tr>
 <tr>
-<td>b</td>
-<td>上一个单词</td>
+<td style="text-align:left">b</td>
+<td style="text-align:left">上一个单词</td>
 </tr>
 <tr>
-<td>dd</td>
-<td>删除当前行</td>
+<td style="text-align:left">dd</td>
+<td style="text-align:left">删除当前行</td>
 </tr>
 <tr>
-<td>gg</td>
-<td>页首</td>
+<td style="text-align:left">gg</td>
+<td style="text-align:left">页首</td>
 </tr>
 <tr>
-<td>G</td>
-<td>页尾</td>
+<td style="text-align:left">G</td>
+<td style="text-align:left">页尾</td>
 </tr>
 </tbody>
 </table>
