@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>http://www.luckyzz.com/idea/idea-keymap/</loc>
+    <lastmod>2016-07-14T15:18:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>idea常用快捷键——MAC版</title>
+        <pubTime>2016-05-23T03:44:13.000Z</pubTime>
+        
+        <tag>idea</tag>
+         
+         
+           
+             
+              <breadCrumb title="idea" url="http://www.luckyzz.com/categories/idea/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/hexo/hexo-install-error/</loc>
+    <lastmod>2016-07-14T15:18:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>安装Hexo的时候出现的一点问题</title>
+        <pubTime>2016-06-02T12:07:56.000Z</pubTime>
+        
+        <tag>hexo github</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://www.luckyzz.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.luckyzz.com/hexo/coding/</loc>
     <lastmod>2016-06-01T14:57:08.000Z</lastmod>
     <data>
@@ -57,26 +97,6 @@
            
              
               <breadCrumb title="http" url="http://www.luckyzz.com/categories/http/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.luckyzz.com/idea/idea-keymap/</loc>
-    <lastmod>2016-05-23T16:08:50.000Z</lastmod>
-    <data>
-        <display>
-        <title>idea常用快捷键——MAC版</title>
-        <pubTime>2016-05-23T03:44:13.000Z</pubTime>
-        
-        <tag>idea</tag>
-         
-         
-           
-             
-              <breadCrumb title="idea" url="http://www.luckyzz.com/categories/idea/"/>
           
         </display>
     </data>
