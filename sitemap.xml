@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.luckyzz.com/http/auto-complete/</loc>
+    
+    <lastmod>2016-09-05T12:53:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.luckyzz.com/mysql/mysql-57-install/</loc>
     
     <lastmod>2016-09-05T12:52:39.000Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://www.luckyzz.com/java/code-cache/</loc>
     
     <lastmod>2016-09-05T12:52:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzz.com/http/auto-complete/</loc>
-    
-    <lastmod>2016-09-05T12:47:05.000Z</lastmod>
     
   </url>
   
