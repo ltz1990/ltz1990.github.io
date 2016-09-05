@@ -6,9 +6,12 @@
     <entry>
       <title><![CDATA[阻止浏览器自动填充密码]]></title>
       <url>http://www.luckyzz.com/http/auto-complete/</url>
-      <content type="html"><![CDATA[<p>今天遇到一个极其蛋疼的问题，自己的网站有一个修改密码的页面，我在输入原密码123的时候，chrome总是给我自动填充成12345，这是一个我之前让浏览器记住的密码。<br>那么问题来了，我他妈怎么在密码栏输入123呢？!!!<br>嗯，百度之后各种方法都来了，比如增加属性<figure class="highlight plain"><figcaption><span>```，完全没有用好嘛现在浏览器都这么流氓简直受不了！！</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">倒是有写文章讲了下浏览器填充的特性——只会填充第一个password的，我试了下，果然是这样！！</span><br><span class="line">然后用他们给出的解决方案：</span><br></pre></td></tr></table></figure></p>
-<p><input type="password" style="display: none;"><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">What?!!!!还是不行！！！chrome已经净化的很聪明了好嘛这样就想骗过我！！too young！！！</span><br><span class="line">（妈蛋我就不信收拾不了你了...</span><br><span class="line">于是....ding~~~ 灵光一闪！</span><br></pre></td></tr></table></figure></p>
-<p><input type="password" style="height:0px;width:0x;padding:0px;margin:0px;border:0px;"><br>```<br>呼… Perfect!</p>
+      <content type="html"><![CDATA[<p>今天遇到一个极其蛋疼的问题，记录一下。</p>
+<p>自己的网站有一个修改密码的页面，我在输入原密码123的时候，chrome总是给我自动填充成12345（这是一个被浏览器记住的密码<br>那么问题来了，我他妈怎么在密码栏输入123呢？？？我他妈到底怎么样才能输入我正确的原密码123呢？？？？？？</p>
+<p>嗯，百度之后各种方法都来了，比如增加属性<code>autocomplete=&quot;off&quot;</code>——完全没有用好嘛！现在浏览器都这么流氓简直受不了！！<br>后来看到有写文章讲了下浏览器填充的特性——只会填充第一个password，试了下，果然是这样！！<br>然后用他们给出的解决方案：  </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type=&quot;password&quot; style=&quot;display: none;&quot;&gt;</span><br></pre></td></tr></table></figure>
+<p>嗯，这样应该就没问题了吧，兴高采烈的贴到页面里~~ then… cmd+r<br>What？？？还是不行！！！chrome已经进化的这么聪明了吗！！！！连你妈隐藏的表单都要识别了吗！！！神经病吗！！！！！！<br>（妈蛋我就不信收拾不了你了…<br>于是….ding~~~ 灵光一闪！<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;input type=&quot;password&quot; style=&quot;height:0px;padding:0px;margin:0px;border:0px;position:absolute;&quot;&gt;</span><br></pre></td></tr></table></figure></p>
+<p>Perfect!(不要尝试把width设置为0，chrome实在是太聪明了..<br>当然，我特么也太聪明了╮(╯_╰)╭</p>
 ]]></content>
     </entry>
     
