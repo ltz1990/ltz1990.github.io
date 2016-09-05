@@ -4,8 +4,48 @@
 
     
   <url>
+    <loc>http://www.luckyzz.com/mysql/mysql-57-install/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mysql-57-Install</title>
+        <pubTime>2016-07-30T11:40:14.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://www.luckyzz.com/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/gitlab/gitlab-install/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>安装Gitlab, Gitlab-Ci集成小记</title>
+        <pubTime>2016-05-22T11:34:02.000Z</pubTime>
+        
+        <tag>gitlab</tag>
+         
+         
+           
+             
+              <breadCrumb title="gitlab" url="http://www.luckyzz.com/categories/gitlab/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.luckyzz.com/idea/idea-keymap/</loc>
-    <lastmod>2016-07-14T15:24:57.000Z</lastmod>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
     <data>
         <display>
         <title>idea常用快捷键——MAC版</title>
@@ -18,6 +58,91 @@
              
               <breadCrumb title="idea" url="http://www.luckyzz.com/categories/idea/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/linux/linux-user/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Linux-User</title>
+        <pubTime>2016-07-30T10:23:42.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://www.luckyzz.com/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/java/code-cache/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Code-Cache</title>
+        <pubTime>2016-08-04T11:34:09.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://www.luckyzz.com/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/http/auto-complete/</loc>
+    <lastmod>2016-09-05T12:47:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>组织浏览器自动填充</title>
+        <pubTime>2016-09-05T12:46:51.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/java/spring-boot/</loc>
+    <lastmod>2016-08-06T11:48:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>Spring-Boot</title>
+        <pubTime>2016-08-06T11:47:59.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/linux/yum/</loc>
+    <lastmod>2016-08-01T15:56:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>Yum</title>
+        <pubTime>2016-08-01T15:54:41.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
