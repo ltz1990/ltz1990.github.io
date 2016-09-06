@@ -5,10 +5,10 @@
     
   <url>
     <loc>http://www.luckyzz.com/java/spring-data-jpa/</loc>
-    <lastmod>2016-09-06T17:05:17.000Z</lastmod>
+    <lastmod>2016-09-06T17:24:41.000Z</lastmod>
     <data>
         <display>
-        <title>快速开发神奇，Spring-Data-Jpa初探</title>
+        <title>快速开发神器，Spring-Data-Jpa初探</title>
         <pubTime>2016-09-06T06:43:10.000Z</pubTime>
         
         <tag>java</tag>
@@ -45,26 +45,6 @@
 
     
   <url>
-    <loc>http://www.luckyzz.com/mysql/mysql-57-install/</loc>
-    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
-    <data>
-        <display>
-        <title>Mysql-57-Install</title>
-        <pubTime>2016-07-30T11:40:14.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://www.luckyzz.com/categories/mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.luckyzz.com/java/code-cache/</loc>
     <lastmod>2016-09-05T12:52:39.000Z</lastmod>
     <data>
@@ -78,26 +58,6 @@
            
              
               <breadCrumb title="java" url="http://www.luckyzz.com/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.luckyzz.com/idea/idea-keymap/</loc>
-    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
-    <data>
-        <display>
-        <title>idea常用快捷键——MAC版</title>
-        <pubTime>2016-05-23T03:44:13.000Z</pubTime>
-        
-        <tag>idea</tag>
-         
-         
-           
-             
-              <breadCrumb title="idea" url="http://www.luckyzz.com/categories/idea/"/>
           
         </display>
     </data>
@@ -138,6 +98,46 @@
            
              
               <breadCrumb title="gitlab" url="http://www.luckyzz.com/categories/gitlab/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/idea/idea-keymap/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>idea常用快捷键——MAC版</title>
+        <pubTime>2016-05-23T03:44:13.000Z</pubTime>
+        
+        <tag>idea</tag>
+         
+         
+           
+             
+              <breadCrumb title="idea" url="http://www.luckyzz.com/categories/idea/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/mysql/mysql-57-install/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mysql-57-Install</title>
+        <pubTime>2016-07-30T11:40:14.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://www.luckyzz.com/categories/mysql/"/>
           
         </display>
     </data>
@@ -262,9 +262,9 @@
         <title>在Github搭建hexo博客小记</title>
         <pubTime>2016-05-22T05:54:04.000Z</pubTime>
         
-        <tag>github</tag>
-         
         <tag>hexo</tag>
+         
+        <tag>github</tag>
          
          
            
