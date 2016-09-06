@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.luckyzz.com/java/spring-data-jpa/</loc>
+    
+    <lastmod>2016-09-06T13:42:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.luckyzz.com/http/auto-complete/</loc>
     
     <lastmod>2016-09-05T13:13:14.000Z</lastmod>
@@ -10,6 +17,13 @@
   
   <url>
     <loc>http://www.luckyzz.com/mysql/mysql-57-install/</loc>
+    
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzz.com/java/code-cache/</loc>
     
     <lastmod>2016-09-05T12:52:39.000Z</lastmod>
     
@@ -31,13 +45,6 @@
   
   <url>
     <loc>http://www.luckyzz.com/linux/linux-user/</loc>
-    
-    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzz.com/java/code-cache/</loc>
     
     <lastmod>2016-09-05T12:52:39.000Z</lastmod>
     

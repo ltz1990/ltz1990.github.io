@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>http://www.luckyzz.com/java/spring-data-jpa/</loc>
+    <lastmod>2016-09-06T13:42:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>Spring-Data-Jpa 初探</title>
+        <pubTime>2016-09-06T06:43:10.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.luckyzz.com/http/auto-complete/</loc>
     <lastmod>2016-09-05T13:13:14.000Z</lastmod>
     <data>
@@ -32,6 +47,26 @@
            
              
               <breadCrumb title="mysql" url="http://www.luckyzz.com/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/java/code-cache/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Code-Cache</title>
+        <pubTime>2016-08-04T11:34:09.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://www.luckyzz.com/categories/java/"/>
           
         </display>
     </data>
@@ -92,26 +127,6 @@
            
              
               <breadCrumb title="linux" url="http://www.luckyzz.com/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.luckyzz.com/java/code-cache/</loc>
-    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
-    <data>
-        <display>
-        <title>Code-Cache</title>
-        <pubTime>2016-08-04T11:34:09.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://www.luckyzz.com/categories/java/"/>
           
         </display>
     </data>
@@ -236,9 +251,9 @@
         <title>在Github搭建hexo博客小记</title>
         <pubTime>2016-05-22T05:54:04.000Z</pubTime>
         
-        <tag>hexo</tag>
-         
         <tag>github</tag>
+         
+        <tag>hexo</tag>
          
          
            
