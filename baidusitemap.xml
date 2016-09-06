@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://www.luckyzz.com/java/spring-data-jpa/</loc>
-    <lastmod>2016-09-06T13:45:26.000Z</lastmod>
+    <lastmod>2016-09-06T16:30:06.000Z</lastmod>
     <data>
         <display>
         <title>Spring-Data-Jpa 初探</title>
@@ -74,26 +74,6 @@
 
     
   <url>
-    <loc>http://www.luckyzz.com/gitlab/gitlab-install/</loc>
-    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
-    <data>
-        <display>
-        <title>安装Gitlab, Gitlab-Ci集成小记</title>
-        <pubTime>2016-05-22T11:34:02.000Z</pubTime>
-        
-        <tag>gitlab</tag>
-         
-         
-           
-             
-              <breadCrumb title="gitlab" url="http://www.luckyzz.com/categories/gitlab/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.luckyzz.com/idea/idea-keymap/</loc>
     <lastmod>2016-09-05T12:52:39.000Z</lastmod>
     <data>
@@ -127,6 +107,26 @@
            
              
               <breadCrumb title="linux" url="http://www.luckyzz.com/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.luckyzz.com/gitlab/gitlab-install/</loc>
+    <lastmod>2016-09-05T12:52:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>安装Gitlab, Gitlab-Ci集成小记</title>
+        <pubTime>2016-05-22T11:34:02.000Z</pubTime>
+        
+        <tag>gitlab</tag>
+         
+         
+           
+             
+              <breadCrumb title="gitlab" url="http://www.luckyzz.com/categories/gitlab/"/>
           
         </display>
     </data>
