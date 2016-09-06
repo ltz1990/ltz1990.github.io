@@ -5,14 +5,25 @@
     
   <url>
     <loc>http://www.luckyzz.com/java/spring-data-jpa/</loc>
-    <lastmod>2016-09-06T16:30:06.000Z</lastmod>
+    <lastmod>2016-09-06T17:05:17.000Z</lastmod>
     <data>
         <display>
-        <title>Spring-Data-Jpa 初探</title>
+        <title>快速开发神奇，Spring-Data-Jpa初探</title>
         <pubTime>2016-09-06T06:43:10.000Z</pubTime>
         
+        <tag>java</tag>
+         
+        <tag>spring</tag>
+         
+        <tag>spring boot</tag>
+         
+        <tag>jps</tag>
+         
          
            
+             
+              <breadCrumb title="java" url="http://www.luckyzz.com/categories/java/"/>
+          
         </display>
     </data>
     </url>
